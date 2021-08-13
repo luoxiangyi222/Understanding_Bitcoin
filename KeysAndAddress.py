@@ -1,3 +1,6 @@
+# The code is initially published in the book <<Mastering Bitcoin>>
+# Modified by me slightly.
+
 import bitcoin as btc
 
 # ############### Private key #########################
